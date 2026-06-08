@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看我长什么样",
+    "url": "https://github.com/mqjws"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/3461563463764921"
+  },
+  {
+  "name": "QQ",
+  "icon": "/images/icon/qq.png",
+  "tip": "不处😄",
+  "qrcode": "/images/qq.jpg"
+  },
+  {
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "你懂的 ~",
+    "url": "https://x.com/weirdo_mine"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/like_mirage"
+  }
+]

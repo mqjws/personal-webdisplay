@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "Blog",
+    "name": "个人博客",
+    "link": "https://blog.ivano.cyou/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "个人网盘",
+    "link": "https://pan.ivano.cyou/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "个人音乐",
+    "link": "https://music.ivano.cyou/"
+  },
+  {
+    "icon": "Book",
+    "name": "关于我",
+    "link": "http://about.ivano.cyou/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "服务器监测",
+    "link": "https://status.ivano.cyou/"
+  },
+  {
+    "icon": "Chalkboard",
+    "name": "面板(不对公)",
+    "link": "https://panel.ivano.cyou/"
+  },
+  {
+    "icon": "Eye",
+    "name": "交互粒子",
+    "link"  : "https://particle.ivano.cyou/"
+  },
+   {
+    "icon": "Gamepad",
+    "name": "小游戏",
+    "link": "https://game.ivano.cyou/"
+  },
+  {
+    "icon": "Steam",
+    "name": "游戏社区",
+    "link": "https://steam.ivano.cyou/"
+  },
+  {
+    "icon": "Tv",
+    "name": "影视",
+    "link": "https://www.yinhuadm.one/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://newsnow.czl.net/"
+  },
+  {
+    "icon": "Brain",
+    "name": "AI",
+    "link": "https://chat.deepseek.com/"
+  }
+]

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+  <meta charset="UTF-8" />
+
+  <!-- 移动端适配 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- 网站图标 -->
+  <link rel="icon" href="%VITE_SITE_LOGO%" />
+  <link rel="apple-touch-icon" href="%VITE_SITE_APPLE_LOGO%" />
+  <link rel="bookmark" href="%VITE_SITE_APPLE_LOGO%" />
+
+  <link
+    rel="apple-touch-icon-precomposed"
+    sizes="200x200"
+    href="%VITE_SITE_APPLE_LOGO%"
+  />
+
+  <!-- SEO -->
+  <meta name="description" content="%VITE_SITE_DES%" />
+
+  <meta name="keywords" content="%VITE_SITE_KEYWORDS%" />
+
+  <meta name="author" content="%VITE_SITE_AUTHOR%" />
+
+  <meta name="robots" content="index,follow" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="%VITE_SITE_NAME%" />
+
+  <meta property="og:description" content="%VITE_SITE_DES%" />
+
+  <meta property="og:image" content="%VITE_SITE_LOGO%" />
+
+  <meta property="og:type" content="website" />
+
+  <!-- 浏览器主题色 -->
+  <meta name="theme-color" content="#424242" />
+
+  <!-- 标题 -->
+  <title>%VITE_SITE_NAME%</title>
+
+  <!-- HarmonyOS Sans -->
+  <link
+    rel="stylesheet"
+    href="https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css"
+  />
+
+  <!-- IE Out -->
+  <script>
+    if (
+      /*@cc_on!@*/ false ||
+      (!!window.MSInputMethodContext && !!document.documentMode)
+    )
+    {
+      window.location.href =
+        "https://support.dmeng.net/upgrade-your-browser.html?referrer=" +
+        encodeURIComponent(window.location.href);
+    }
+  </script>
+</head>
+  <body>
+    <!-- 主体内容 -->
+    <div id="app"></div>
+    <!-- noscript -->
+    <noscript>
+      <div style="text-align: center">请开启 JavaScript</div>
+    </noscript>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
