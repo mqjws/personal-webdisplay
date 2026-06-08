@@ -35,7 +35,7 @@ https://ivano.cyou
 
 ## 项目截图
 
-### Windows段
+### Windows端
 
 ![主页](./screenshots/homepage.png)
 
@@ -43,7 +43,7 @@ https://ivano.cyou
 
 ### Android端
 
-![移动端](.\screenshots\mobile.png)
+![移动端1](./screenshots/mobile.png)
 
 ---
 
