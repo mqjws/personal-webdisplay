@@ -43,7 +43,7 @@ https://ivano.cyou
 
 ### Android端
 
-![移动段1](E:\personal-webdisplay-dev\screenshots\mobile.png)
+![移动端](.\screenshots\mobile.png)
 
 ---
 
