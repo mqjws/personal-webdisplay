@@ -25,6 +25,11 @@
     "link": "https://status.ivano.cyou/"
   },
   {
+    "icon": "CommentDollar",
+    "name": "API",
+    "link": "https://api.ivano.cc.cd/"
+  },
+  {
     "icon": "Chalkboard",
     "name": "面板(不对公)",
     "link": "https://panel.ivano.cyou/"
@@ -43,6 +48,11 @@
     "icon": "Steam",
     "name": "游戏社区",
     "link": "https://steam.ivano.cyou/"
+  },
+  {
+    "icon": "Tree",
+    "name": "校园树",
+    "link": "https://campustreex.com/"
   },
   {
     "icon": "Tv",
